@@ -29,3 +29,4 @@ whitenoise==6.2.0
 xhtml2pdf==0.2.5
 razorpay==1.2.0
 twilio==6.51.1
+sklearn
